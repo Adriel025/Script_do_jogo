@@ -1,0 +1,10 @@
+Library
+Logs
+obj
+Packages
+ProjectSettings
+UserSettings
+.gitattributes
+.vsconfig
+Assembly-CSharp.csproj
+Pinball2D.sln
