@@ -244,10 +244,10 @@ EdgeCollider2D:
   - {x: 50.19011, y: 476.103}
   - {x: 44.085304, y: 477.55383}
   - {x: 82.85707, y: 511.7361}
-  - {x: 93.67515, y: 481.10867}
+  - {x: 106.86937, y: 526.34607}
   - {x: 107.51936, y: 532.1854}
-  - {x: 135.6811, y: 591.01575}
-  - {x: -12.4508295, y: 587.8179}
+  - {x: 176.74057, y: 719.80237}
+  - {x: -153.2138, y: 729.57965}
   - {x: -105.4685, y: 529.32874}
   - {x: -50.750412, y: 478.0814}
   - {x: -77.519485, y: 472.70084}
@@ -688,7 +688,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: -238.11, y: -32.669983}
+  m_AnchoredPosition: {x: -325.8, y: 60.600006}
   m_SizeDelta: {x: 32.61, y: 32.92}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!96 &372909014
@@ -1582,7 +1582,7 @@ GameObject:
   - component: {fileID: 1050584517}
   m_Layer: 5
   m_Name: Moeda (3)
-  m_TagString: Ponto
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1604,7 +1604,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 622.2, y: -46.899994}
+  m_AnchoredPosition: {x: 645, y: -71}
   m_SizeDelta: {x: 29.58, y: 29.58}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!95 &1050584517
@@ -2272,7 +2272,7 @@ EdgeCollider2D:
   m_GameObject: {fileID: 1276699516}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 3fa019bbdbdcccb48a563a9f5eeeb906, type: 2}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
@@ -2528,7 +2528,7 @@ EdgeCollider2D:
   m_GameObject: {fileID: 1315583330}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 3fa019bbdbdcccb48a563a9f5eeeb906, type: 2}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0

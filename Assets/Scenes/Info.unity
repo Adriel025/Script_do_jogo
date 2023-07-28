@@ -627,7 +627,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 242, y: 519.95}
+  m_AnchoredPosition: {x: 242, y: 504}
   m_SizeDelta: {x: 170.02, y: 122.76}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &756274243
@@ -884,10 +884,10 @@ RectTransform:
   m_Father: {fileID: 1723645023}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.0143125, y: 0.02132467}
-  m_AnchorMax: {x: 0.9816875, y: 0.86500007}
-  m_AnchoredPosition: {x: 1.8699951, y: 2.4899902}
-  m_SizeDelta: {x: -2.209999, y: -3.1500015}
+  m_AnchorMin: {x: 0.019000001, y: 0.03058393}
+  m_AnchorMax: {x: 0.98310655, y: 0.8742593}
+  m_AnchoredPosition: {x: -4.629944, y: 2}
+  m_SizeDelta: {x: 4.790001, y: -3.1500015}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1256445056
 MonoBehaviour:
@@ -911,7 +911,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 80
+    m_FontSize: 75
     m_FontStyle: 1
     m_BestFit: 0
     m_MinSize: 0
@@ -922,8 +922,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Jogo desenvolvido para entrega de TCC.\n\nFontes:\r\n \nencurtador.com.br/cy348\nencurtador.com.br/mAGL0\nencurtador.com.br/swyDV\nencurtador.com.br/luRW6\n\nLink
-    do site para verifica\xE7\xE3o de Recordes"
+  m_Text: "Jogo desenvolvido para entrega de TCC.\n\nFontes:\r \nencurtador.com.br/cy348\nencurtador.com.br/mAGL0\nencurtador.com.br/swyDV\nencurtador.com.br/luRW6\n\nLink
+    do site:\nhttps://github.com/Adriel025/Pagina.html"
 --- !u!222 &1256445057
 CanvasRenderer:
   m_ObjectHideFlags: 0

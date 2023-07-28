@@ -578,7 +578,8 @@ MonoBehaviour:
     m_VerticalOverflow: 0
     m_LineSpacing: 1
   m_Text: "Trabalho de Conclus\xE3o de Curso de Sistemas de Informa\xE7\xE3o 2023\n\nJogo
-    desenvolvido pelos estudantes Adriel\n\nJorhan\n\nOrienta\xE7\xE3o:\nJose Roberto"
+    desenvolvido pelos estudantes\n\nAdriel Victor\n\nJorhan de Carvalho\n\nOrienta\xE7\xE3o:\n\nJose
+    Roberto"
 --- !u!222 &761903766
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -770,7 +771,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 29.559998, y: 17.059998}
+  m_AnchoredPosition: {x: 29.559937, y: 17.059998}
   m_SizeDelta: {x: 255.4, y: 159.43}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1248089105
@@ -1006,7 +1007,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 234, y: 518}
+  m_AnchoredPosition: {x: 234, y: 467}
   m_SizeDelta: {x: 173.88, y: 142.13}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1996440462
